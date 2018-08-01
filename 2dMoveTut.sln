@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dMoveTut", "2dMoveTut.csproj", "{650FD98E-5BBB-4512-ABDE-B100E27F5804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	Release|Any CPU = Release|Any CPU
+	Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{650FD98E-5BBB-4512-ABDE-B100E27F5804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650FD98E-5BBB-4512-ABDE-B100E27F5804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650FD98E-5BBB-4512-ABDE-B100E27F5804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650FD98E-5BBB-4512-ABDE-B100E27F5804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650FD98E-5BBB-4512-ABDE-B100E27F5804}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{650FD98E-5BBB-4512-ABDE-B100E27F5804}.Tools|Any CPU.Build.0 = Tools|Any CPU
+	EndGlobalSection
+EndGlobal
