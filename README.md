@@ -4,7 +4,7 @@ This is bite-sized example of how to implement Zelda-like 2D movement in Godot w
 
 For this to work, make sure you're using the Mono-version of Godot. 
 
-[Here's a tutorial]() on how to install and configure Godot with C# support on Windows.
+[Here's a tutorial](https://lawsonry.com/godot/1-1-install-godot-with-c-support-on-windows/) on how to install and configure Godot with C# support on Windows.
 
 # Building
 
